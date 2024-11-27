@@ -1,6 +1,4 @@
-Here’s a draft for the README file for your RESTful Booker project:
 
----
 
 # RESTful Booker API Testing Project
 
